@@ -32,7 +32,6 @@ Edit composer.json
 
 	{
 		"require": {
-			"laravel/framework": "4.0.*",
 			"spinegar/laravelsugar": "dev-master"
 		},
 		"minimum-stability": "dev"
