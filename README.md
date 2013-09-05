@@ -31,12 +31,6 @@ Contents
 Edit composer.json
 
 	{
-		"repositories": [
-			{
-				"type": "vcs",
-				"url": "https://github.com/spinegar/laravelsugar"
-			}
-		],
 		"require": {
 			"laravel/framework": "4.0.*",
 			"spinegar/laravelsugar": "dev-master"
