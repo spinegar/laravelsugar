@@ -65,3 +65,5 @@ Update the configuration file at app/config/packages/spinegar/laravelsugar/confi
 	Sugar::get("Accounts",array('id','name'));
 	
 See https://github.com/asakusuma/SugarCRM-REST-API-Wrapper-Class for more examples.
+
+ * Note: Methods in the SugarCRM REST API Wrapper Class are accessed statically in this bridge package thanks to the facade.
