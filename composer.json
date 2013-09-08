@@ -1,10 +1,10 @@
 {
     "name": "spinegar/laravelsugar",
-    "description": "",
+    "description": "Bridge Package for Laravel 4 and the SugarCRM REST API Wrapper Class",
     "authors": [
         {
             "name": "Sean Pinegar",
-            "email": "spinegar@gmil.com"
+            "email": "spinegar@gmail.com"
         }
     ],
     "require": {
